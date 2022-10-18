@@ -1,6 +1,11 @@
  - [ ] Clonar repositório
  - [ ] Criar sua branch
  - [ ] npm intall
- - [ ] Fazer uma página igual a essa...
- - [ ] Criar o arquivo HTML
+ - [ ] Abrir PR
+ - [ ] Fazer uma página igual a <a href="/home/pamela/esquenta-summer/post-esquenta-summer-turma-28/images
+/home/pamela/esquenta-summer/post-esquenta-summer-turma-28/index.html">
+ - [ ] Explicar o aquivo HTML
+ - [ ] Modificar o arquivo HTML
  - [ ] Criar arquivo CSS
+ 
+ #Não esquecer de fazer commits 
