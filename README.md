@@ -19,6 +19,8 @@ Simular o início de um projeto na Trybe:
 A ideia é passar por cada um dos pontos dos objetivos, pegar um arquivo html sem nenhuma semântica, deixa-ló semântico e estilizar.
 Ao final da mentoria teremos o seguinte [resultado](https://abreupamm.github.io/post-esquenta-summer-turma-28/).
 
+**[Repositorio para consulta com html e css finalizados.](https://github.com/Abreupamm/post-esquenta-summer-turma-28)**
+
 ## Requisito 1
 
 Clonar o repositório
@@ -47,5 +49,3 @@ Deixar o html semântico
 Estilizar com css
 
  **Post criado com HTML5 e CSS para exemplo didático na truma 28 da Trybe.**
-
-**[Repositorio para consulta com html e css finalizados.](https://github.com/Abreupamm/post-esquenta-summer-turma-28)**
