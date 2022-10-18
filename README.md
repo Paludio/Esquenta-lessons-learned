@@ -1,7 +1,7 @@
 
-## Bem vindos ao repositório do esquenta-lessons-learned!! :rocket::fire:
-<details>
- <summary><strong>Objetivos </strong></summary>
+# Bem vindos ao repositório do esquenta-lessons-learned!! :rocket::fire:
+
+## Objetivos
 
 Simular o início de um projeto na Trybe:
 
@@ -13,7 +13,7 @@ Simular o início de um projeto na Trybe:
  - Pegar o html já feito e deixar semântico;
  - estilizar com css; 
  - commit a cada nova mudança;
-</details>
+
 
 ## Aprendizados
 A ideia é passar por cada um dos pontos dos objetivos, pegar um arquivo html sem nenhuma semântica, deixa-ló semântico e estilizar.
