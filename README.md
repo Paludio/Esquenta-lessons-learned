@@ -16,7 +16,7 @@ Simular o início de um projeto na Trybe:
 
 
 ## Aprendizados
-A ideia é passar por cada um dos pontos dos objetivos, pegar um arquivo html sem nenhuma semântica, deixa-ló semântico e estilizar.
+A ideia é passar por cada um dos pontos dos objetivos, pegar um arquivo html sem nenhuma semântica, deixa-ló semântico e estilizar. Xablau
 Ao final da mentoria teremos o seguinte [resultado](https://abreupamm.github.io/post-esquenta-summer-turma-28/).
 
 **[Repositorio para consulta com html e css finalizados.](https://github.com/Abreupamm/post-esquenta-summer-turma-28)**
